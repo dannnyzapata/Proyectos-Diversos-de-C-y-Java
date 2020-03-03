@@ -1,0 +1,41 @@
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.exe.config
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.exe
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.FrmLogin.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.exe
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.FrmMenu.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.FrmDomicilio.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.FrmClientes.resources
+C:\Users\LC\Desktop\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\LC\Desktop\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\LC\Desktop\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.csprojResolveAssemblyReference.cache
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.FrmClientes.resources
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.FrmDomicilio.resources
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.FrmLogin.resources
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.FrmMenu.resources
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.Cache
+C:\Users\LC\Desktop\Pizza\Pizza\obj\Debug\Pizza.FrmBuscador.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.FrmBuscador.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.FrmClientes.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.FrmDomicilio.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.FrmLogin.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.FrmMenu.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Daniel 2\Downloads\Pizza\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Downloads\PizzaDanny\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Daniel 2\Downloads\PizzaDanny\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\Daniel 2\Downloads\PizzaDanny\Pizza\Pizza\obj\Debug\Pizza.pdb

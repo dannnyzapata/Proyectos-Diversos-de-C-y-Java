@@ -1,0 +1,9 @@
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\bin\Debug\Ciudades.exe.config
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\bin\Debug\Ciudades.exe
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\bin\Debug\Ciudades.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\obj\Debug\Ciudades.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\obj\Debug\Ciudades.Form1.resources
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\obj\Debug\Ciudades.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\obj\Debug\Ciudades.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\obj\Debug\Ciudades.exe
+c:\users\lc\documents\visual studio 2012\Projects\Ciudades\Ciudades\obj\Debug\Ciudades.pdb

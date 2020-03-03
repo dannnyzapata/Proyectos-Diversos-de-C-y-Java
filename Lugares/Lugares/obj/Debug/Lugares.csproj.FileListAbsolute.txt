@@ -1,0 +1,10 @@
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\bin\Debug\Lugares.exe.config
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\bin\Debug\Lugares.exe
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\bin\Debug\Lugares.pdb
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.Properties.Resources.resources
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.csproj.GenerateResource.Cache
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.exe
+c:\users\oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.pdb
+C:\Users\Oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.FrmCatalogo.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\Lugares\Lugares\obj\Debug\Lugares.FrmLugares.resources

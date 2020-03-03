@@ -1,0 +1,18 @@
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\bin\Debug\ArbolLetras.exe.config
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.FrmArbol.resources
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.Properties.Resources.resources
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.csproj.GenerateResource.Cache
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\bin\Debug\ArbolLetras.exe
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\bin\Debug\ArbolLetras.pdb
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.exe
+c:\users\oscar\documents\visual studio 2013\Projects\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.pdb
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\bin\Debug\ArbolLetras.exe.config
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.exe
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.pdb
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\bin\Debug\ArbolLetras.exe
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\bin\Debug\ArbolLetras.pdb
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.csprojResolveAssemblyReference.cache
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.FrmArbol.resources
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.Properties.Resources.resources
+C:\Users\LC\Downloads\ArbolLetras\ArbolLetras\ArbolLetras\obj\Debug\ArbolLetras.csproj.GenerateResource.Cache

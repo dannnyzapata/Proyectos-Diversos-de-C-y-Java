@@ -1,0 +1,9 @@
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\bin\Debug\Equipos.exe.config
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\bin\Debug\Equipos.exe
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\bin\Debug\Equipos.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\obj\Debug\Equipos.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\obj\Debug\Equipos.Form1.resources
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\obj\Debug\Equipos.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\obj\Debug\Equipos.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\obj\Debug\Equipos.exe
+c:\users\lc\documents\visual studio 2012\Projects\Equipos\Equipos\obj\Debug\Equipos.pdb

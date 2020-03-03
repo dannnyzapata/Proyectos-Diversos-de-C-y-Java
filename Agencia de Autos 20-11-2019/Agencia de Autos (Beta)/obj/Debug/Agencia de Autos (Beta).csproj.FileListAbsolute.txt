@@ -1,0 +1,33 @@
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).exe.config
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).exe
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).pdb
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).csprojResolveAssemblyReference.cache
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmInicio.resources
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmLogin.resources
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmVentas.resources
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.Properties.Resources.resources
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).csproj.GenerateResource.Cache
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).exe
+c:\users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).pdb
+C:\Users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmEmpleados.resources
+C:\Users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmInventario.resources
+C:\Users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmCatalogo.resources
+C:\Users\angel\onedrive\documentos\visual studio 2013\Projects\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmNewInventario.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).exe.config
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).exe
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).pdb
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).exe
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).pdb
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).csprojResolveAssemblyReference.cache
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmCatalogo.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmEmpleados.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmInicio.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmInventario.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmNewInventario.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmLogin.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.frmVentas.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia_de_Autos__Beta_.Properties.Resources.resources
+C:\Users\LC\Desktop\Agencia de Autos (Delta) 19-11-2019 version 1.0 (1)\Agencia de Autos (Beta)\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).csproj.GenerateResource.Cache
+C:\Users\LC\Downloads\Agencia de Autos 20-11-2019\Agencia de Autos (Beta)\bin\Debug\Agencia de Autos (Beta).exe.config
+C:\Users\LC\Downloads\Agencia de Autos 20-11-2019\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).exe
+C:\Users\LC\Downloads\Agencia de Autos 20-11-2019\Agencia de Autos (Beta)\obj\Debug\Agencia de Autos (Beta).pdb

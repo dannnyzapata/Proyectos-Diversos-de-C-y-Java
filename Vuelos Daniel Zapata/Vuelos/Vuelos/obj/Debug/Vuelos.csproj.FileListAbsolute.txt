@@ -1,0 +1,19 @@
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\bin\Debug\Vuelos.exe.config
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\bin\Debug\Vuelos.exe
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\bin\Debug\Vuelos.pdb
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\obj\Debug\Vuelos.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\obj\Debug\Vuelos.FrmVuelos.resources
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\obj\Debug\Vuelos.Properties.Resources.resources
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\obj\Debug\Vuelos.csproj.GenerateResource.Cache
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\obj\Debug\Vuelos.exe
+c:\users\oscar\documents\visual studio 2013\Projects\Vuelos\Vuelos\obj\Debug\Vuelos.pdb
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\bin\Debug\Vuelos.exe.config
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\bin\Debug\Vuelos.exe
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\bin\Debug\Vuelos.pdb
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.csprojAssemblyReference.cache
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.FrmVuelos.resources
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.Properties.Resources.resources
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.csproj.GenerateResource.cache
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.exe
+C:\Users\Daniel 2\Downloads\Vuelos\Vuelos\Vuelos\obj\Debug\Vuelos.pdb

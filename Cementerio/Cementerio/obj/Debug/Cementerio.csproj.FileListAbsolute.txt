@@ -1,0 +1,9 @@
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\bin\Debug\Cementerio.exe.config
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\bin\Debug\Cementerio.exe
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\bin\Debug\Cementerio.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\obj\Debug\Cementerio.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\obj\Debug\Cementerio.FrmLotes.resources
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\obj\Debug\Cementerio.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\obj\Debug\Cementerio.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\obj\Debug\Cementerio.exe
+c:\users\lc\documents\visual studio 2012\Projects\Cementerio\Cementerio\obj\Debug\Cementerio.pdb

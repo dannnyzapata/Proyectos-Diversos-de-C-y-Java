@@ -1,0 +1,12 @@
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\bin\Release\Pizza.exe.config
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\bin\Release\Pizza.exe
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\bin\Release\Pizza.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.FrmClientes.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.FrmDomicilio.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.FrmLogin.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.FrmMenu.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.exe
+c:\users\lc\documents\visual studio 2012\Projects\Pizza\Pizza\obj\Release\Pizza.pdb

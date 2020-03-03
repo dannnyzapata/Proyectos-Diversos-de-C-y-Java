@@ -1,0 +1,12 @@
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\bin\Debug\Connection.exe.config
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\bin\Debug\Connection.exe
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\bin\Debug\Connection.pdb
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\obj\Debug\Connection.Form1.resources
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\obj\Debug\Connection.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\obj\Debug\Connection.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\obj\Debug\Connection.exe
+c:\users\lc\documents\visual studio 2012\Projects\Connection\Connection\obj\Debug\Connection.pdb
+C:\Users\LC\Desktop\Connection\Connection\bin\Debug\Connection.exe.config
+C:\Users\LC\Desktop\Connection\Connection\obj\Debug\Connection.exe
+C:\Users\LC\Desktop\Connection\Connection\obj\Debug\Connection.pdb

@@ -1,0 +1,3 @@
+create database resultadosdb;
+use resultadosdb;
+create table multiplicar(resu int);

@@ -1,0 +1,11 @@
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\bin\Debug\MATRicularas.exe.config
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\bin\Debug\MATRicularas.exe
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\bin\Debug\MATRicularas.pdb
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.csprojAssemblyReference.cache
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.Form1.resources
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.Properties.Resources.resources
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.csproj.GenerateResource.cache
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.exe
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.pdb
+C:\Users\Daniel 2\source\repos\MATRicularas\MATRicularas\obj\Debug\MATRicularas.Form2.resources

@@ -1,0 +1,25 @@
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe.config
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\bin\Debug\BlockBuster.pdb
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\obj\Debug\BlockBuster.FrmPrincipal.resources
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\obj\Debug\BlockBuster.Properties.Resources.resources
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csproj.GenerateResource.Cache
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\obj\Debug\BlockBuster.exe
+c:\users\oscar\documents\visual studio 2013\Projects\BlockBuster\BlockBuster\obj\Debug\BlockBuster.pdb
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe.config
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.exe
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.pdb
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.FrmPrincipal.resources
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.Properties.Resources.resources
+C:\Users\Daniel 2\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csproj.GenerateResource.Cache
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe.config
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.exe
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.pdb
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\bin\Debug\BlockBuster.pdb
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csprojResolveAssemblyReference.cache
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.FrmPrincipal.resources
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.Properties.Resources.resources
+C:\Users\LC\Downloads\BlockBuster\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csproj.GenerateResource.Cache
