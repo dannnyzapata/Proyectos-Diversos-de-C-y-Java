@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+#include <float.h>
+#define PI    3.141592654
+
+int main(int argC, char *argV[]) {
+	float angulo = 1;
+	float rangulo;
+	float tangenteN ;
+	float tangenteR;
+	while ((angulo>=0) && (angulo <90)){
+		printf("t?");
+    	scanf("%f", &angulo);
+		rangulo = angulo*(PI/180);
+        tangenteN = tan(rangulo);
+	    tangenteR = sqrt((1-cos(2*rangulo))/(1+cos(2*rangulo)));
+        printf("a) tan %.2f = %.3f\n", angulo,tangenteR);	
+	    printf("b) tan %.2f = %.3f\n", angulo,tangenteN);
+	}
+	printf("Entrada Incorrecta");
+	return 0; 
+}
